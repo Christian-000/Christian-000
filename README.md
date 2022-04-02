@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Christian!!</h1>
 <h3 align="center">A passionate Full Stack developer</h3>
 
-- 🌱 I’m currently learning **GraphQL**
+- 🌱 I’m currently learning **More Of Backend**
 
 - 📫 How to reach me **christianpiccinini4@gmail.com**
 
